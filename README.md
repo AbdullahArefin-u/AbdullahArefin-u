@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah Arefin
 
-<!--
-**AbdullahArefin-u/AbdullahArefin-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and tech enthusiast who loves building bots, websites, and tools that make life easier.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- 💻 Languages: Python, JavaScript, HTML, CSS, C#
+- 🤖 Bots: Discord Bots, Telegram Bots
+- 🌐 Web Dev: React, Node.js, Express
+- ⚙️ Tools: Git, Linux, VSCode
+- 📦 Backend: MongoDB, MySQL, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArefin-u&show_icons=true&theme=radical)
+
+## 🚀 Projects
+- 🔗 [My Portfolio Website](#)
+- 🤖 [Discord Music Bot](#)
+- 🌍 [Dropshipping Website](#)
+- 🎮 [Gaming Site - LAZY69](#)
+
+## 📫 Contact Me
+- Discord: [itz.joy](#)
+- Telegram: [@AbdullahArefin169](#)
+- Email: contact.abdullah.hq@gmail.com
