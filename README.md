@@ -14,7 +14,7 @@ I'm a passionate developer and tech enthusiast who loves building bots, websites
 
 ## 🚀 Projects
 - 🔗 [My Portfolio Website](#)
-- 🤖 [Discord Music Bot](#)
+- 🤖 [Music Player Website](#)
 - 🌍 [Dropshipping Website](#)
 - 🎮 [Gaming Site - LAZY69](#)
 
