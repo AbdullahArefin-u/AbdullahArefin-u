@@ -14,11 +14,11 @@ I'm a passionate developer and tech enthusiast who loves building bots, websites
 
 ## 🚀 Projects
 - 🔗 [My Portfolio Website](#)
-- 🤖 [Music Player Website](#)
-- 🌍 [Dropshipping Website](#)
+- 🤖 [Music Player Website](https://ggmusic.vercel.app/)
+- 🌍 [Free Fire Like Site](https://x1litelikeapp.vercel.app)
 - 🎮 [Gaming Site - LAZY69](#)
 
 ## 📫 Contact Me
 - Discord: [itz.joy](#)
-- Telegram: [@AbdullahArefin169](#)
+- Telegram: [@AbdullahArefin169](t.me/AbdullahArefin169)
 - Email: contact.abdullah.hq@gmail.com
