@@ -10,7 +10,12 @@ I'm a passionate developer and tech enthusiast who loves building bots, websites
 - 📦 Backend: MongoDB, MySQL, REST APIs
 
 ## 📈 GitHub Stats
+
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahArefin-u&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahArefin-u&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahArefin-u&layout=compact&theme=radical)
 
 ## 🚀 Projects
 - 🔗 [My Portfolio Website](#)
@@ -20,5 +25,5 @@ I'm a passionate developer and tech enthusiast who loves building bots, websites
 
 ## 📫 Contact Me
 - Discord: [itz.joy](#)
-- Telegram: [@AbdullahArefin169](t.me/AbdullahArefin169)
+- Telegram: [@AbdullahArefin169](https://t.me/AbdullahArefin169)
 - Email: contact.abdullah.hq@gmail.com
